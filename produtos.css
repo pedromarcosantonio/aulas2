@@ -1,10 +1,17 @@
+
 header {
-    background: #bbbb;
+    background: #BBBBBB;
 }
 
-nav li { 
+nav li {
     display: inline;
+    margin: 0 0 0 15px;
 }
+
 nav a {
-    text-transform: uppecase;
+    text-transform: uppercase;
+    color: #000000;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
 }
